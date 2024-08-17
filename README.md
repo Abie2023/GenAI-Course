@@ -1,8 +1,8 @@
 # Udacity Generative AI Nanodegree: Personal Notes
 
-These are my personal notes taken while following the [Udacity Generative AI Nanodegree](https://www.udacity.com/course/generative-ai--nd608).
+I took These notes while following the [Udacity Generative AI Nanodegree](https://www.udacity.com/course/generative-ai--nd608).
 
-The Nanodegree asssumes basic data analysis skills with data science python libraries and databases, and has 4 modules that build up on those skills; each module has its corresponding folder in this repository with its guide Markdown file:
+The Nanodegree assumes basic data analysis skills with data science Python libraries and databases, and has 4 modules that build up on those skills; each module has its corresponding folder in this repository with its guide Markdown file:
 
 1. Generative AI Fundamentals: [`01_Fundamentals_GenAI`](./01_Fundamentals_GenAI/README.md).
     - Foundation Models
@@ -21,11 +21,11 @@ The Nanodegree asssumes basic data analysis skills with data science python libr
 Additionally, it is necessary to submit and pass some projects to get the certification:
 
 - Project 1: Apply Lightweight Fine-Tuning to a Foundation Model - TBD.
-- Project 2: Build Your Own Custom Chatbot - TBD.
+- Project 2: Build Your Custom Chatbot - TBD.
 - Project 3: AI Photo Editing with Inpainting - TBD.
 - Project 4: Personalized Real Estate Agent - TBD.
 
-Finally, also check some of my personal guides on related tools:
+Finally, also check some of my guides on related tools:
 
 - [HuggingFace](https://github.com/mxagar/tool_guides/tree/master/hugging_face)
 - [LangChain](https://github.com/mxagar/tool_guides/tree/master/langchain)
@@ -38,7 +38,7 @@ Finally, check these additional related courses:
 
 ## Setup
 
-A regular python environment with the usual data science packages should suffice (i.e., scikit-learn, pandas, matplotlib, etc.); any special/additional packages and their installation commands are introduced in the guides. A recipe to set up a [conda](https://docs.conda.io/en/latest/) environment with my current packages is the following:
+A regular Python environment with the usual data science packages should suffice (i.e., sci-kit-learn, pandas, matplotlib, etc.); any special/additional packages and their installation commands are introduced in the guides. A recipe to set up a [conda](https://docs.conda.io/en/latest/) environment with my current packages is the following:
 
 ```bash
 conda create --name ds pip python=3.10
