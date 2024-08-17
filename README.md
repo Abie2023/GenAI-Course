@@ -50,10 +50,3 @@ pip install -r requirements.txt
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - ...
-
-## Credits
-
-Many of the contents in this repository were created following the [Udacity Generative AI Nanodegree](https://www.udacity.com/course/generative-ai--nd608).
-
-Mikel Sagardia, 2024.  
-No guarantees.
